@@ -16,7 +16,7 @@ text("Rechthoek", 130,210,90);
 
 // Afgeronde rechthoek
 fill(255,255,255);
-rect(10,220,300,170,80);
+rect(10,220,300,170,20);
 fill(0,0,0);
 text("Afgeronde rechtoek", 110,410,90);
 
